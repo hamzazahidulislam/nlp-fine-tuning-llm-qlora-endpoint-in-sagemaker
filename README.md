@@ -6,4 +6,4 @@
 
 - ## [PROJECT-LINK](https://github.com/hamzazahidulislam/qlora-course)
 
-  5.7
+  7.1
