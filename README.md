@@ -6,4 +6,4 @@
 
 - ## [PROJECT-LINK](https://github.com/hamzazahidulislam/qlora-course)
 
-  7.4
+  7.10
