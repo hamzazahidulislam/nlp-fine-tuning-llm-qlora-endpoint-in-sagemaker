@@ -9,3 +9,5 @@
   7.10
 
 ## Cost 70-100$ When you train your project
+
+## AWS SAGE MAKE --> COMPUTE OPTIMIZED --> ml.g5.24xlarge
