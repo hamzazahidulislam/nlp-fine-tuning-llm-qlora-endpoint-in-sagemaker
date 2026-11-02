@@ -7,3 +7,5 @@
 - ## [PROJECT-LINK](https://github.com/hamzazahidulislam/qlora-course)
 
   7.10
+
+## Cost 70-100$ When you train your project
